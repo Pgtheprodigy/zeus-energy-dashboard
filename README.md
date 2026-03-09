@@ -1,6 +1,6 @@
-# Ashipa Electric — Solar Energy Dashboard
+# Zeus — Energy Dashboard
 
-A real-time solar energy monitoring dashboard built for [Ashipa Electric](https://ashipaelectric.com), a Lagos-based clean energy company helping homes and businesses achieve energy independence through solar and storage solutions.
+A real-time solar energy monitoring dashboard built for Zeus, an Abuja-based clean energy company helping homes and businesses achieve energy independence through solar and storage solutions.
 
 **Live Demo:** https://luminous-mermaid-0b73e4.netlify.app/
 
@@ -10,7 +10,7 @@ A real-time solar energy monitoring dashboard built for [Ashipa Electric](https:
 
 This dashboard gives homeowners and business operators a clear view of their solar system's performance — how much energy is being generated, consumed, stored, and saved at any point in time.
 
-It was built to reflect the kind of client-facing tool that complements Ashipa Electric's energy storage and software solutions product line.
+It was built to reflect the kind of client-facing tool that complements Zeus's energy storage and software solutions product line.
 
 ---
 
@@ -41,7 +41,7 @@ It was built to reflect the kind of client-facing tool that complements Ashipa E
 ## Project Structure
 
 ```
-ashipa-energy-dashboard/
+zeus-energy-dashboard/
 ├── index.html    # Page structure and layout
 ├── style.css     # All styling, theming, and animations
 ├── script.js     # Data, chart, and UI logic
@@ -55,8 +55,8 @@ ashipa-energy-dashboard/
 No installation or build tools required. Just clone the repo and open the HTML file:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/ashipa-energy-dashboard.git
-cd ashipa-energy-dashboard
+git clone https://github.com/Pgtheprodigy/zeus-energy-dashboard
+cd zeus-energy-dashboard
 ```
 
 Then open `index.html` in your browser.
@@ -65,7 +65,7 @@ Then open `index.html` in your browser.
 
 ## Screenshots
 
-> Dashboard in Home view — showing residential solar metrics for a Lagos property.
+> Dashboard in Home view — showing residential solar metrics for an Abuja property.
 
 ---
 
@@ -73,5 +73,4 @@ Then open `index.html` in your browser.
 
 Built by **[Your Name]** — a UI/UX designer transitioning into design engineering, with a focus on building interfaces that are both functional and visually precise.
 
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+- GitHub: [@pgtheprodigy](https://github.com/Pgtheprodigy)
