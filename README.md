@@ -71,6 +71,6 @@ Then open `index.html` in your browser.
 
 ## Author
 
-Built by **[Your Name]** — a UI/UX designer transitioning into design engineering, with a focus on building interfaces that are both functional and visually precise.
+Built by **Progress** — a UI/UX designer transitioning into design engineering, with a focus on building interfaces that are both functional and visually precise.
 
 - GitHub: [@pgtheprodigy](https://github.com/Pgtheprodigy)
